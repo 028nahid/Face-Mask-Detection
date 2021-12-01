@@ -1,2 +1,2 @@
 # Face-Mask-Detection
-Face Mask Detection
+Human faces are difficult to model as there are many variables that can change for example facial expression, orientation, lighting conditions and partial occlusions such as sunglasses, scarf, mask etc. The result of the detection gives the face location parameters and it could be required in various forms, for instance, a rectangle covering the central part of the face, eye centers or landmarks including eyes, nose and mouth corners, eyebrows, nostrils, etc. Now we are able to make a classifier that can differentiate between faces with masks and without masks.
